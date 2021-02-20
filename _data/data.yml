@@ -91,9 +91,8 @@ projects:
      
     assignments:
       - title: Memory Test Game
-        link: 
-        tagline: 
-        I always liked playing the classic Memory game and decided to create the Memory Test Game as my spin-off version of it.
+        link: https://github.com/Julaaaa/Memory-Test-Game
+        tagline: I always liked playing the classic Memory game and decided to create the Memory Test Game as my spin-off version of it.
        The main goal is to memorize the positions of all of the numbers that appear on the board and then click them in ascending order. 
        The player can customize the game setting, and save his highest score within the app. The game was written in Android Studio using Java. 
 
@@ -107,16 +106,16 @@ skills:
 
     toolset:
       - name: Java
-        level: 
+        # level: 
 
       - name: HTML5 & CSS
-        level: 
+        # level: 
         
       - name:  MySQL
-        level: 
+        # level: 
 
       - name: Maven
-        level: 
+        # level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
